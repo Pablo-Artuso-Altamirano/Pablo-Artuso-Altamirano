@@ -1,7 +1,7 @@
 ## Hola 👋 soy Pablo Artuso Altamirano
   👨🏻‍💻Desarrollador de software
 
-Mi CV esta disponible en: [pablo-artuso-altamirano.github.io](https://pablo-artuso-altamirano.github.io/)
+Mi CV esta disponible en: [pablo-artuso-altamirano.github.io]()
 
 ### Contacto 📫
 - **Correo:** pabloartusoaltamirano5@gmail.com
