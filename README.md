@@ -2,7 +2,7 @@
   <h2>👨🏻‍💻Desarrollador de software</h2>
 
 
-Mi CV esta disponible en: [pablo-artuso-altamirano.github.io](https://Pablo-Artuso-Altamirano.github.io) 
+Mi CV esta disponible en: [pablo-artuso-altamirano.github.io]() 
 
 ### Contacto 📫
 - **Correo:** pabloartusoaltamirano5@gmail.com
